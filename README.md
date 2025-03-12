@@ -29,4 +29,4 @@ I would love to collaborate on **open-source projects**! If you have an exciting
 ### 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wross9959&layout=compact&theme=tokyonight)  
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wross9959&show_icons=true&theme=tokyonight)  i hid this bad boy for another day ! -->
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wross9959&show_icons=true&theme=tokyonight) 
