@@ -26,6 +26,6 @@ I love working on **personal projects** and contributing to **open-source** comm
 ### 🤝 Open Source Collaboration
 I would love to collaborate on **open-source projects**! If you have an exciting project or need a contributor, feel free to reach out!
 
-### 📊 GitHub Stats
+<!--### 📊 GitHub Stats-->
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wross9959&layout=compact&theme=tokyonight)  -->
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wross9959&show_icons=true&theme=tokyonight)  i hid this bad boy for another day ! -->
